@@ -1,7 +1,7 @@
 ## Opaaa dev, Wesley aqui!
 <div>
- <img height="180em" width="40%" src="https://github-readme-stats.vercel.app/api?username=wesley278&show_icons=true&theme=react" />
-   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley278&layout=compact&langs_count=16&theme=react"/>
+ <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=wesley278&show_icons=true&theme=react" />
+   <img align="right" height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley278&layout=compact&langs_count=16&theme=react"/>
 </div>
 <br>
 
