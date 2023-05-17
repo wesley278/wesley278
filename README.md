@@ -7,7 +7,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="https://pa1.narvii.com/6901/66e499486d9c5237bbb6e4ec49b90e09de61c3edr1-500-281_hq.gif">
+    <img align="left" height="250" alt="coding-time" src="https://github.com/wesley278/LuigiGf/blob/main/code.gif?raw=true">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
