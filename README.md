@@ -1,6 +1,6 @@
 ## Opaaa dev, Wesley aqui!
 <div>
- <img height="40%" src="https://github-readme-stats.vercel.app/api?username=wesley278&show_icons=true&theme=react" />
+ <img height="30%" src="https://github-readme-stats.vercel.app/api?username=wesley278&show_icons=true&theme=react" />
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley278&layout=compact&langs_count=16&react"/>
 </div>
 <br>
