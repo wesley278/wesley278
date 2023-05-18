@@ -1,7 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&animation=twinkling&color=f0f0FF" />
 
 
-## Opaaa dev, Wesley aqui!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1000&color=85ADD4&background=49A44E00&width=435&lines=Ol%C3%A1%2C+me+chamo+Wesley.;Seja+muito+bem-vindo!;Futuro+web+developer)](https://git.io/typing-svg)
+<br>
 <div>
  <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api?username=wesley278&show_icons=true&theme=react" />
    <img align="right" height="180em" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesley278&layout=compact&langs_count=16&theme=react"/>
